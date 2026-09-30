@@ -36,7 +36,7 @@ The goal of this project is to build a modern and easy-to-use Quran application 
 Ahmed
 
 Computer Science Student  
-Android & Flutter Developer  
+Flutter Developer  
 Laravel Backend Developer
 
 ---
