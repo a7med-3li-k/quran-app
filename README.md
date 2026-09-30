@@ -21,19 +21,11 @@ A modern Quran mobile application designed to provide a simple and comfortable e
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
-### 🕌 Splash Screen
-
-![Splash Screen](splash-screen.png)
-
-### 📖 Quran Reading
-
-![Quran Reading](quran-screen.png)
-
-### 📚 Surahs List
-
-![Surahs List](surahs-screen.png)
+<p align="center">
+  <img src="splash-screen.png" width="250">
+  <img src="surahs-screen.png" width="250">
+  <img src="quran-screen.png" width="250">
+</p>
 
 ## 🚀 Project Goals
 
